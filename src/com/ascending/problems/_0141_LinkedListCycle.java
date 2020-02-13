@@ -1,9 +1,7 @@
 package com.ascending.problems;
 
 public class _0141_LinkedListCycle {
-    /**
-     * Definition for singly-linked list.
-     **/
+    /** Definition for singly-linked list. **/
 
     class ListNode {
         int val;
